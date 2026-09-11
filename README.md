@@ -63,3 +63,13 @@ Currently pursuing an MSc in Cyber Security at Asia Pacific University (APU) whi
 - Power BI Executive Audit Dashboard
 - Python Audit Automation
 - Vendor Risk Monitoring
+  
+---
+
+## Professional Experience Highlights
+
+- 16+ years in telecommunications analytics and internal audit.
+- Continuous Audit Analytics for enterprise audit monitoring.
+- Experience designing Key Control Checks (KCC) for automated audit testing.
+- IT audit experience covering ITGC, ITAC, IAM, UAM and SoD reviews.
+- Experience supporting audit analytics using SQL, Python, Power BI, BigQuery and Cloud Composer.
