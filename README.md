@@ -46,11 +46,12 @@ Currently pursuing an MSc in Cyber Security at Asia Pacific University (APU) whi
 
 ## Currently Learning
 
-- MSc Cyber Security @ Asia Pacific University
+- MSc Cyber Security — Asia Pacific University (APU)
+- Information Security Design
 - Google Professional Data Engineer
-- Cybersecurity Architecture
-- Cloud Security
+- Cloud Security Architecture
 - API Security
+- Network Security
 
 ---
 
